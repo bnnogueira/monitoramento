@@ -1,0 +1,8 @@
+# Atividade Desafio Shell
+
+#Criar um script shell para te alertar sobre o valor do bitcoin
+	#Utilize o endpoint: https://cointradermonitor.com/api/pbb/v1/ticker
+	#Verificar se o valor do Bitcoin está abaixo do valor alvo (500000), se estiver abaixo, então
+	#Criar um issue no Github para falar que o valor do bitcoin caiu.
+	
+#Executar isso a cada 6 horas
